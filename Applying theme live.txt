@@ -132,7 +132,7 @@ local OrionLib = {
 		}
 	},
 
-	SelectedTheme = "Galaxy",
+	SelectedTheme = "White",
 	Folder = nil,
 	SaveCfg = false
 }
